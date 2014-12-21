@@ -135,7 +135,7 @@ int main()
 	scanf("%s %s", ola, adeus);
 	
 	
-	printf("fim %d\n", strcapi(ola));
+	printf("fim %s\n", strcapi(ola));
 	return 0;
 }
 
